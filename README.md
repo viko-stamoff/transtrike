@@ -31,14 +31,15 @@
 ### Languages I know
 
 <img align="left" alt="C#" width="25px" src="./images/c-sharp.svg" />
-<img align="left" alt="Rust" width="25px" src="./images/rust-lang.svg" />
 <img align="left" alt="HTML" width="25px" src="./images/html.svg" />
 <img align="left" alt="CSS" width="25px" src="./images/css.svg" />
 <img align="left" alt="JavaScript" width="25px" src="./images/javascript.svg" />
+<img align="left" alt="Rust" width="25px" src="./images/rust-lang.svg" />
 </br>
 
 ### Technologies I know
 
+<img align="left" alt=".NET Core" width="25px" src="./images/dot-net-core.svg" />
 <img align="left" alt="ASP.NET Core" width="25px" src="./images/asp-net-core.svg" />
 <img align="left" alt="Angular" width="25px" src="./images/angular.svg" />
 </br>
