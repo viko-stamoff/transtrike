@@ -1,25 +1,30 @@
-### Hi there, I'm Viko 👋
+## 👋 Hi there, I'm Viko 👋
 
 ## I'm a Full Stack Developer with fondness for Low-Level Languages !!!
 
 - 🔭 I passionate about learning new technologies!
-- 🌱 I’m currently learning Rust 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Rust and the Microservices architecture!
+- ⚡ Fun fact: I have a strong love-hate relationship with algorithms!
+
+### 2021 Goals:
+
+- [<img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg.svg" />][Contribute more to Open Source Projects]
+
+- [<img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg.svg" />][Learn more architecture styles]
+
+- [<img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg.svg" />][Write blogs to spread the knowledge and experience]
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="viko_stamoff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="victor-stamoff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][protonmail]
+[<img align="left" alt="victor-stamoff | LinkedIn" width="22px" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="victor-stamoff | Protonmail" width="22px" src="./images/email_white.svg" />][protonmail]
 
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="./images/visual-studio.svg" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
 <br />
 <br />
