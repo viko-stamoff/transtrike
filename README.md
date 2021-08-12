@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Viko 👋
 
-## I'm a Full Stack Developer with fondness for Low-Level Languages
+## I'm a Full Stack Developer with biasness for Low-Level Languages
 
 - 🔭 I passionate about learning new technologies!
 - 🌱 I’m currently learning Rust and the Microservices architecture!
-- ❤️‍🔥 Looking forward to growing my knowledge of the algorithms!
+- ❤️ Looking forward to growing my knowledge of the algorithms!
 - ⚡ Fun fact: I have a strong love-hate relationship with algorithms!
 
 ---
@@ -55,8 +55,9 @@
 <br />
 <br />
 
-<!-- <summary>GitHub Stats</summary> -->
-<!-- <img align="left" alt="viko's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=transtrike&show_icons=true&hide_border=true" /> -->
+### GitHub Stats
+
+[![Viko's GitHub stats](https://github-readme-stats.vercel.app/api?username=transtrike&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: https://viko_stamoff.com -->
 [linkedin]: https://linkedin.com/in/victor-stamoff/
