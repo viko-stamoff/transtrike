@@ -4,7 +4,7 @@
 
 - 🔭 I passionate about learning new technologies!
 - 🌱 I’m currently learning Rust and the Microservices architecture!
-- ❤️ Looking forward to growing my knowledge of the algorithms!
+- ❤️ Looking forward to growing my knowledge in the algorithms' sphere!
 - ⚡ Fun fact: I have a strong love-hate relationship with algorithms!
 
 ---
