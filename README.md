@@ -3,19 +3,9 @@
 ## I'm a Full Stack Developer with biasness for Low-Level Languages
 
 - 🔭 I passionate about learning new technologies!
-- 🌱 I’m currently learning Rust and the Microservices architecture!
+- 🌱 I’m currently expanding my knowledge in Rust!
 - ❤️ Looking forward to growing my knowledge in the algorithms' sphere!
-- ⚡ Fun fact: I have a strong love-hate relationship with algorithms!
-
----
-
-### 2021 Goals
-
-- <img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg" /> Contribute more to Open Source Projects
-
-- <img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg" /> Learn more architecture styles
-
-- <img align="left" alt="goal" width="22px" src="./images/blank-check-box.svg" /> Write blogs to spread the knowledge and experience
+- ⚡ Fun fact: I have a strong love-hate relationship with cars!
 
 ---
 
@@ -33,7 +23,7 @@
 <img align="left" alt="C#" width="25px" src="./images/c-sharp.svg" />
 <img align="left" alt="HTML" width="25px" src="./images/html.svg" />
 <img align="left" alt="CSS" width="25px" src="./images/css.svg" />
-<img align="left" alt="JavaScript" width="25px" src="./images/javascript.svg" />
+<img align="left" alt="JavaScript/Typescript" width="25px" src="./images/javascript.svg" />
 <img align="left" alt="Rust" width="25px" src="./images/rust-lang.svg" />
 </br>
 
@@ -50,7 +40,6 @@
 
 <img align="left" alt="Visual Studio Code" width="25px" src="./images/visual-studio-code.svg" />
 <img align="left" alt="Emacs" width="25px" src="./images/cli.svg" />
-<img align="left" alt="Emacs" width="25px" src="./images/emacs.svg" />
 
 <br />
 <br />
